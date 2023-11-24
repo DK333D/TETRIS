@@ -1,4 +1,4 @@
-![image](https://github.com/DK333D/TETRIS/assets/64826011/1cc4321e-8c95-40ff-8a2c-a5d4ed8f9ff1)# TETRIS
+# TETRIS
 Zmodyfikowana wersja kultowej gry Tetris
 
 ### Opis
